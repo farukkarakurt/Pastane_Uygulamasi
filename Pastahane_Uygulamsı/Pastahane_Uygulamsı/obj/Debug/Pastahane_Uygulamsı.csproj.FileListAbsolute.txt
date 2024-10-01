@@ -1,0 +1,10 @@
+C:\Users\faruk\source\repos\Pastahane_Uygulamsı\Pastahane_Uygulamsı\bin\Debug\Pastahane_Uygulamsı.exe.config
+C:\Users\faruk\source\repos\Pastahane_Uygulamsı\Pastahane_Uygulamsı\bin\Debug\Pastahane_Uygulamsı.exe
+C:\Users\faruk\source\repos\Pastahane_Uygulamsı\Pastahane_Uygulamsı\bin\Debug\Pastahane_Uygulamsı.pdb
+C:\Users\faruk\source\repos\Pastahane_Uygulamsı\Pastahane_Uygulamsı\obj\Debug\Pastahane_Uygulamsı.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\Pastahane_Uygulamsı\Pastahane_Uygulamsı\obj\Debug\Pastahane_Uygulamsı.Form1.resources
+C:\Users\faruk\source\repos\Pastahane_Uygulamsı\Pastahane_Uygulamsı\obj\Debug\Pastahane_Uygulamsı.Properties.Resources.resources
+C:\Users\faruk\source\repos\Pastahane_Uygulamsı\Pastahane_Uygulamsı\obj\Debug\Pastahane_Uygulamsı.csproj.GenerateResource.cache
+C:\Users\faruk\source\repos\Pastahane_Uygulamsı\Pastahane_Uygulamsı\obj\Debug\Pastahane_Uygulamsı.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\Pastahane_Uygulamsı\Pastahane_Uygulamsı\obj\Debug\Pastahane_Uygulamsı.exe
+C:\Users\faruk\source\repos\Pastahane_Uygulamsı\Pastahane_Uygulamsı\obj\Debug\Pastahane_Uygulamsı.pdb
